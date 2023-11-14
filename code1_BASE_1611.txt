@@ -1,14 +1,7 @@
 #include <iostream>
 using name space std;
 
-const int bien1 =5;
 int main()
 {
-
 return 0;
 }
-
-
-//cap nhat bien 1
-
-

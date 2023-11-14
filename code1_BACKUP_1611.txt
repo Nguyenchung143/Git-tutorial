@@ -8,7 +8,12 @@ int main()
 return 0;
 }
 
-
+<<<<<<< HEAD
 //cap nhat bien 1
 
 
+=======
+//code them dong 1
+
+//code them dong 2
+>>>>>>> nhanh1
